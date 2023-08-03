@@ -7,7 +7,7 @@
 		},
 	  "properties":{
 		"record_id":"19171846",
-		"record_date":{"type":"Date","value":"2023-07-30",
+		"record_date":{"type":"Date","value":"2023-07-30"},
 		"trap_id":"239499",
 		"trap_code":"DE7893",
 		"trap_type":"Flipping Timmy",
@@ -24,7 +24,7 @@
 	 },
 	 "properties":{
 		"record_id":"19171850",
-		"record_date":{"type":"Date","value":"2023-07-31",
+		"record_date":{"type":"Date","value":"2023-07-31"},
 		"trap_id":"239500",
 		"trap_code":"DE7895",
 		"trap_type":"Flopping Tommy",
