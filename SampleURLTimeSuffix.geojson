@@ -1,0 +1,37 @@
+{"type":"FeatureCollection",
+ "features":[
+	{ "type":"Feature",
+	  "geometry":{
+		"type":"Point",
+		"coordinates":[174.6000,-36.34285]
+		},
+	  "properties":{
+		"record_id":"19171846",
+		"record_date":"2023-07-30T13:45:30",
+		"trap_id":"239499",
+		"trap_code":"DE7893",
+		"trap_type":"Flipping Timmy",
+		"project":"Sample Project",
+		"line":"A",
+		"species_caught":"Possum",
+		"recorded_by":"Trapper A"
+		}
+	},	
+	{"type":"Feature",
+	 "geometry":{
+	 "type":"Point",
+	 "coordinates":[175.6000,-37.34285]
+	 },
+	 "properties":{
+		"record_id":"19171850",
+		"record_date":"2023-07-31T12:00:00",
+		"trap_id":"239500",
+		"trap_code":"DE7895",
+		"trap_type":"Flopping Tommy",
+		"project":"Sample Project B",
+		"line":"B",
+		"species_caught":"Rat",
+		"recorded_by":"Trapper B"
+		}
+}]
+}
