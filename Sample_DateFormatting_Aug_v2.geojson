@@ -1,0 +1,59 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "EPSG:4326"
+		}
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"id": 1,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.6,
+					-36.34285
+				]
+			},
+			"properties": {
+				"record_id": 19171846,
+				"record_date": "{\"type\":\"Date\",\"value\":\"2023-07-30\"}",
+				"trap_id": 239499,
+				"trap_code": "DE7893",
+				"trap_type": "Flipping Timmy",
+				"project": "Sample Project",
+				"line": "A",
+				"species_caught": "Possum",
+				"recorded_by": "Trapper A",
+				"ObjectId": 1,
+				"DateTest": "Sun, 05 Sep 2024 11:45:00 GMT"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6,
+					-37.34285
+				]
+			},
+			"properties": {
+				"record_id": 19171850,
+				"record_date": "{\"type\":\"Date\",\"value\":\"2023-07-31\"}",
+				"trap_id": 239500,
+				"trap_code": "DE7895",
+				"trap_type": "Flopping Tommy",
+				"project": "Sample Project B",
+				"line": "B",
+				"species_caught": "Rat",
+				"recorded_by": "Trapper B",
+				"ObjectId": 2,
+				"DateTest": "Tue, 03 Sep 2024 16:45:00 GMT"
+			}
+		}
+	]
+}
